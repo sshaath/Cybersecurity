@@ -1,7 +1,7 @@
 # Cybersecurity
-Please find the 
+Please find ... 
 
->Lost Data Retrieval- Cybersecurity Incident Respond plan in this file. This project aims to have an incident response recovery plan when data is lost, deleted, destroyed or/and corrupted due to ransomware cyberattack. 
+>Lost Data Retrieval- Cybersecurity .pdf. Incident Respond plan in this file. This project aims to have an incident response recovery plan when data is lost, deleted, destroyed or/and corrupted due to ransomware cyberattack. 
 >>The tool used: Cloud backup system The Skills utilized for this project are- Technical knowledge, Problem-solving, Cybersecurity awareness, risk management, Information Managment, ECM, Network, Cyber defence and Investigation skills.
 
 
